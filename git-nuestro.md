@@ -1,4 +1,4 @@
-##Git nuestro
+##Rezando al todo poderoso **GIT**
 
 <p><em>Git</em> nuestro que estas en los repos<br/> 
 Comprimidos sean tus <em>commits</em><br/>
